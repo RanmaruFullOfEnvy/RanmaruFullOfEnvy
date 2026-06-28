@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- 1. HEADER BANNER 
 ! [image alt](https://github.com/RanmaruFullOfEnvy/RanmaruFullOfEnvy/blob/main/Untitled524_20260628151814.png?raw=true)
 <!-- 2. QUOTE TEXT -->
 
