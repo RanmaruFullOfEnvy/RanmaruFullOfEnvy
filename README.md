@@ -6,5 +6,5 @@
 
 
 <!-- 3. INTERACTIVE NAVIGATION LINKS -->
-&nbsp;&nbsp;&nbsp;&nbsp; [“We're just Midori's toys...!!] (https://3nvy0franmaru.atabook.org/)) ⤶ My Atabook
+　 &nbsp;&nbsp;&nbsp;&nbsp; [“We're just Midori's toys...!!”](https://3nvy0franmaru.atabook.org/)  ⤶ My Atabook
 </div>
